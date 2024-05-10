@@ -2,6 +2,13 @@
 
 This Flask-based application allows users to manage a list of their favorite movies, including the ability to rate, review, and update details. The application fetches movie information from The Movie Database (TMDB) API and supports CRUD operations using SQLAlchemy with SQLite as the database.
 
+## Output
+
+
+https://github.com/sarvesh-2109/movie-ratings/assets/113255836/9bf53e9e-5d80-4e53-9f97-1e5dd2f02918
+
+
+
 ## Project Structure
 
 The project is divided into several components including Python scripts, HTML templates, and CSS files. Below is an outline of the major components:
